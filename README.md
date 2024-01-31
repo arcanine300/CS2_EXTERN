@@ -2,7 +2,7 @@
 Read-only external CS2 base utilizing overlay hijacking &amp; remote IPC 
 
 # Compile Instructions
-The main application can be compiled and ran like a normal application. Making changes such as changing offsets you will not need to recompile RemoteRPM but if you
+The main application can be compiled and ran like a normal application. Making edits to the main application such as changing offsets doesn't require you to recompile RemoteRPM but if you
  wish to make changes to RemoteRPM i.e shellcode payload you will need to 
 - compile RemoteRPM.sln
 - Download [Donut](https://github.com/TheWover/donut?tab=readme-ov-file)
